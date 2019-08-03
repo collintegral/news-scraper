@@ -1,0 +1,2 @@
+Routes should include to the main page that runs the article-scraping javascript, to the database to store said scraped articles,
+to the database to save comments, to the database to retrieve comments, and to the database to delete comments.

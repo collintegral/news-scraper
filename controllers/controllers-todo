@@ -1,0 +1,4 @@
+The controllers needed for this assignment are:
+1: a controller to retrieve the articles from the website (in this instance, NYTimes.com.)
+2: a controller to retrieve commented articles and their comments.
+3: a controller to add or delete comments.

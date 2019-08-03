@@ -1,0 +1,3 @@
+The models required for this database are:
+1: a model to hold a headline (required), url (required + unique), and description of articles. It should also mark whether it has comments or not with a boolean.
+2: a model to hold comments. They should contain the content of the comment (required), as well the article to which it's attached (required).
